@@ -32,10 +32,10 @@ const DELETED_ITEMS = [
     'croptopia:onion_seed',
     'croptopia:rice_seed',
     'supplementaries:sugar_cube',
-    'croptopia:grape',
-    'croptopia:cherry',
     'croptopia:coffee_beans',
-    'croptopia:tea_leaves'
+    'croptopia:tea_leaves',
+    'croptopia:grape',
+    'croptopia:cherry'
 ];
 REIEvents.hide('item', (event) => {
     DELETED_ITEMS.forEach(id => event.hide(id));
