@@ -66,7 +66,7 @@
 			tasks: [{
 				id: "755F341295669BDC"
 				type: "item"
-				item: "animal_feeding_through:feeding_trough"
+				item: "animal_feeding_trough:feeding_trough"
 			}]
 			rewards: [{
 				id: "514FA3C6117CB9DA"

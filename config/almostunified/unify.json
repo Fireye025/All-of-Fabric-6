@@ -2,6 +2,8 @@
   "modPriorities": [
     "minecraft",
     "modern_industrialization",
+    "spectrum",
+    "blockus",
     "farmersdelight",
     "nethersdelight",
     "create",
@@ -15,11 +17,12 @@
     "bwplus",
     "hexcasting",
     "brewinandchewin",
-    "croptopia",
     "vinery",
+    "croptopia",
     "byg",
     "tinycoal",
-    "catwalksinc"
+    "catwalksinc",
+    "geodes"
   ],
   "stoneStrata": [
     "stone",
@@ -41,18 +44,25 @@
     "c:{material}_rods",
     "c:{material}_wires",
     "c:{material}_blocks",
+    "c:{material}_slab",
+    "c:{material}_stairs",
+    "c:{material}_bricks",
     "c:{material}_storage_blocks",
     "c:raw_{material}_storage_blocks",
     "c:raw_{material}_blocks",
     "c:raw_{material}_ores",
     "c:crops/{material}",
     "c:seeds/{material}",
+    "c:{material}_crate",
     "c:rice",
     "c:dough",
     "c:flour",
     "c:raw_bacon",
     "c:cooked_bacon",
-    "c:netherrack_dusts"
+    "c:netherrack_dusts",
+    "c:rope",
+    "c:feeding_trough",
+    "c:barrel"
 
   ],
   "materials": [
@@ -95,7 +105,13 @@
     "onion",
     "garlic",
     "quartz",
-    "ender_pearl"
+    "ender_pearl",
+    "apple",
+    "beetroot",
+    "carrot",
+    "calcite",
+    "ice",
+    "sugar"
   ],
   "priorityOverrides": {"c:salt_dusts": "bewitchment"},
   "ignoredTags": [

@@ -1,5 +1,5 @@
 {
-  "enableVanillaCropCrates": true,
+  "enableVanillaCropCrates": false,
   "farmersBuyFDCrops": true,
   "wanderingTraderSellsFDItems": true,
   "richSoilBoostChance": 0.2,
