@@ -14,6 +14,9 @@ ServerEvents.tags('item', event => {
 
   event.add('c:workbench', 'minecraft:crafting_table')
 
+  event.add('c:egg', 'minecraft:egg')
+  event.add('c:egg', 'duckling:duck_egg')
+
   // Knives
 
   event.add('c:knives', 'farmersdelight:flint_knife')
