@@ -17,6 +17,25 @@ const DELETED_ITEMS = [
     'nethersdelight:diamond_machete',
     'nethersdelight:netherite_machete',
     'nethersdelight:golden_machete',
+    'farmersdelight:rope',
+    'farmingforblockheads:feeding_trough',
+    'supplementaries:quiver',
+    'geodes:calcite_slab',
+    'geodes:calcite_stairs',
+    'farmersdelight:carrot_crate',
+    'farmersdelight:potato_crate',
+    'farmersdelight:beetroot_crate',
+    'vinery:apple_crate',
+    'croptopia:grape_seed',
+    'blockus:paper_lamp',
+    'croptopia:garlic_seed',
+    'croptopia:onion_seed',
+    'croptopia:rice_seed',
+    'supplementaries:sugar_cube',
+    'croptopia:grape',
+    'croptopia:cherry',
+    'croptopia:coffee_beans',
+    'croptopia:tea_leaves'
 ];
 REIEvents.hide('item', (event) => {
     DELETED_ITEMS.forEach(id => event.hide(id));
