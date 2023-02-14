@@ -3,26 +3,26 @@
       {
         "type": "bookshelf:item_exists",
         "values": [
-          "vinery:white_grape_seeds"
+          "farmersdelight:rice"
         ]
       }
     ],
     "type": "botanypots:crop",
     "seed": {
-      "item": "vinery:white_grape_seeds"
+      "item": "farmersdelight:rice"
     },
     "categories": [
-      "dirt", "stem"
+      "dirt", "water"
     ],
     "growthTicks": 2400,
     "display": {
-      "block": "vinery:white_grape_bush"
+      "block": "farmersdelight:rice_crop"
     },
     "drops": [
       {
         "chance": 1.00,
         "output": {
-          "item": "vinery:white_grape"
+          "item": "farmersdelight:rice"
         },
         "minRolls": 2,
         "maxRolls": 4
@@ -30,7 +30,7 @@
     {
         "chance": 0.01,
         "output": {
-          "item": "vinery:white_grape_seeds"
+          "item": "farmersdelight:rice"
         }
       }
     ]

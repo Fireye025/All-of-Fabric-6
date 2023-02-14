@@ -6,7 +6,6 @@
 
 ServerEvents.recipes(event => {
 
-
 });
 
 ServerEvents.tags('item', event => {
@@ -36,3 +35,4 @@ ServerEvents.tags('item', event => {
   event.add('c:raw_bacon', 'croptopia:bacon')
   event.add('c:cooked_bacon', 'croptopia:cooked_bacon')
 });
+

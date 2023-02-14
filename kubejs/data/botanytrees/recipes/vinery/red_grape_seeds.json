@@ -12,7 +12,7 @@
       "item": "vinery:red_grape_seeds"
     },
     "categories": [
-      "dirt"
+      "dirt", "stem"
     ],
     "growthTicks": 2400,
     "display": {

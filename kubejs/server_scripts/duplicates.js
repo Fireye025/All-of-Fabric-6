@@ -19,7 +19,7 @@ const delete_item=[
     ['blockus:paper_lamp', 'mcwlights:white_paper_lamp'],
     ['croptopia:garlic_seed', 'croptopia:garlic'],
     ['croptopia:onion_seed', 'farmersdelight:onion'],
-    ['croptopia:rice_seed', 'farmersdelight:wild_rice'],
+    ['croptopia:rice_seed', 'farmersdelight:rice'],
     ['supplementaries:sugar_cube', 'blockus:sugar_block']
 ]
 
@@ -61,4 +61,4 @@ LootJS.modifiers((event) => {
 
     event.addBlockLootModifier('croptopia:coffee_crop')
         .replaceLoot('farmersrespite:coffee_beans', 'farmersrespite:coffee_berries', true);
-})
+});

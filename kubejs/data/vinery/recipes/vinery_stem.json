@@ -1,0 +1,11 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "vinery:grapevine_stem"
+    },
+    "display": {
+      "block": "vinery:grapevine_stem"
+    },
+    "categories": ["stem"],
+    "ticks": 100
+  }

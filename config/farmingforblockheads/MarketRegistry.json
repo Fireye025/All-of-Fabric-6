@@ -1026,17 +1026,7 @@
 
     {
       "output": {
-        "item": "croptopia:garlic_seed"
-      },
-      "payment": {
-        "item": "minecraft:emerald"
-      },
-      "category": "farmingforblockheads:seeds"
-    }, 
-
-    {
-      "output": {
-        "item": "croptopia:grape_seed"
+        "item": "bewitchment:garlic"
       },
       "payment": {
         "item": "minecraft:emerald"
@@ -1136,7 +1126,7 @@
 
     {
       "output": {
-        "item": "croptopia:onion_seed"
+        "item": "farmersdelight:onion"
       },
       "payment": {
         "item": "minecraft:emerald"
@@ -1196,7 +1186,7 @@
 
     {
       "output": {
-        "item": "croptopia:rice_seed"
+        "item": "farmersdelight:rice"
       },
       "payment": {
         "item": "minecraft:emerald"
