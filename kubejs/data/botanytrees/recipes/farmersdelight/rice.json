@@ -12,25 +12,25 @@
       "item": "farmersdelight:rice"
     },
     "categories": [
-      "dirt", "water"
+      "water"
     ],
     "growthTicks": 2400,
     "display": {
-      "block": "farmersdelight:rice_crop"
+      "block": "farmersdelight:rice_upper_crop"
     },
     "drops": [
       {
         "chance": 1.00,
         "output": {
-          "item": "farmersdelight:rice"
+          "item": "farmersdelight:rice_panicle"
         },
-        "minRolls": 2,
-        "maxRolls": 4
+        "minRolls": 1,
+        "maxRolls": 2
     },
     {
         "chance": 0.01,
         "output": {
-          "item": "farmersdelight:rice"
+          "item": "farmersdelight:rice_panicle"
         }
       }
     ]
